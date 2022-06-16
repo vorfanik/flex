@@ -69,11 +69,9 @@ main section button {
     font-size: 13px;
     font-weight: bold;
     cursor: pointer;
+    
 }
 
-main section button p {
-    margin-right: 3px;
-}
 
 main section:nth-child(1){
     height: 400px;
